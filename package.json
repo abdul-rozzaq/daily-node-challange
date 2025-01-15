@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.10.5"
+  },
+  "name": "daily-node-challange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "undici-types": "^6.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

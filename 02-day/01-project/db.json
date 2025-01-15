@@ -1,0 +1,130 @@
+[
+    {
+        "path": "/",
+        "data": [],
+        "index": 0
+    },
+    {
+        "path": "/products",
+        "data": [
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 1
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 2
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 3
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 4
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 5
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 6
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 7
+            },
+            {
+                "name": "loreeem",
+                "price": "xxxxxx",
+                "year": 7800,
+                "id": 8
+            }
+        ],
+        "index": 8
+    },
+    {
+        "path": "/users",
+        "data": [
+            {
+                "name": "Itxona",
+                "price": 15000,
+                "id": 1
+            }
+        ],
+        "index": 1
+    },
+    {
+        "path": "/books",
+        "data": [
+            {
+                "name": "O'tmagan kunlar",
+                "id": 1
+            },
+            {
+                "name": "1984",
+                "id": 2
+            },
+            {
+                "name": "Qo'yxona",
+                "id": 3
+            },
+            {
+                "name": "Atom odatlar",
+                "id": 4
+            },
+            {
+                "name": "Atom odatlar",
+                "price": 15000,
+                "id": 5
+            },
+            {
+                "name": "Atom odatlar",
+                "price": 15000,
+                "id": 6
+            },
+            {
+                "name": "Atom odatlar",
+                "price": 15000,
+                "id": 7
+            },
+            {
+                "name": "Itxona",
+                "price": 15000,
+                "id": 8
+            }
+        ],
+        "index": 8
+    },
+    {
+        "path": "/todo",
+        "data": [
+            {
+                "name": "Molxona",
+                "price": 15000,
+                "id": 1
+            },
+            {
+                "name": "1984",
+                "price": 15000,
+                "id": 2
+            }
+        ],
+        "index": 2
+    }
+]
